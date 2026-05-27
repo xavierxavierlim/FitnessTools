@@ -1,2 +1,2 @@
-# FitnessTools
-Fitness Tools is a lightweight R package that provides simple fitness calculation tools such as one rep max estimation, protein intake recommendation, and BMI categorization for gym users and beginners interested in fitness tracking.
+# Fitness Tools
+This project was built as part of the final project for the CS50 course, Introduction to Programming with R, to apply the skills learned throughout the course. These included core R programming concepts such as functions, data validation, conditional statements, loops, package development, documentation, and unit testing. The project also provided an opportunity to develop a fully functional R package that fitness enthusiasts, beginners, and developers can integrate into their own R projects and applications to calculate and track key fitness metrics such as one rep max, protein intake, and BMI.
